@@ -1,4 +1,7 @@
 # Pearity
+
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+
  Virtual Smart Card CrpytoTokenKit
 
 ---
